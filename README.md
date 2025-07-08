@@ -1,6 +1,8 @@
 # BLCE
 B.L.C.E (Bash Line Command Editor)
 
+## GO TO RELEASES TO DOWNLOAD!
+
 blce (Bash Line Command Editor)
 blce is a simple interactive Bash script that lets you perform common system management tasks from a user-friendly command-line menu.
 Type help inside blce to see all available commands.
