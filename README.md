@@ -52,6 +52,7 @@ If your terminal behaves oddly after quitting, restart your terminal session.
 ```
 
 # Example Session
+```
 Welcome to blce (bash line command editor) type help for help
 : help
 : up
@@ -62,3 +63,4 @@ Welcome to blce (bash line command editor) type help for help
 : th newfile.txt
 : auto
 : b
+```
