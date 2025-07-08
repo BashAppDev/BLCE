@@ -33,6 +33,7 @@ Run the script:
 
 # Commands
 Command	Description
+```
 b	Quit blce
 up	Update your system (sudo apt update -y)
 in <package>	Install a package (e.g., in nano)
@@ -48,6 +49,7 @@ Sudo privileges are required for most system commands.
 Make sure neofetch is installed if you want to use the neo command.
 
 If your terminal behaves oddly after quitting, restart your terminal session.
+```
 
 # Example Session
 Welcome to blce (bash line command editor) type help for help
