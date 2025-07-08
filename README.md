@@ -21,7 +21,15 @@ Create new files
 Auto-update your system in the background
 
 # Usage
-To run click on the ./blce file!
+Make the script executable:
+
+```
+chmod +x main.sh
+Run the script:
+```
+```
+./main.sh
+```
 
 # Commands
 Command	Description
