@@ -7,6 +7,8 @@ blce (Bash Line Command Editor)
 blce is a simple interactive Bash script that lets you perform common system management tasks from a user-friendly command-line menu.
 Type help inside blce to see all available commands.
 
+Blce is micro text editor included (no sponsor)
+
 # Features
 System update and upgrade
 
@@ -19,6 +21,8 @@ Show the first 20 lines of a file
 Create new files
 
 Auto-update your system in the background
+
+Use micro
 
 # Usage
 Make the script executable:
@@ -43,6 +47,8 @@ head <file>	Show the first 20 lines of a file (e.g., head myfile.txt)
 th <file>	Create a new file (e.g., th newfile.txt)
 auto	Automatically update and upgrade system every 2 minutes (press Ctrl+C to stop)
 help	Show the help menu
+imi  Installs micro
+mi  Opens micro mi <file>
 Notes
 Sudo privileges are required for most system commands.
 
@@ -62,5 +68,7 @@ Welcome to blce (bash line command editor) type help for help
 : head myfile.txt
 : th newfile.txt
 : auto
+: imi
+: mi
 : b
 ```
