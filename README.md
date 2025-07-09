@@ -24,11 +24,11 @@ Auto-update your system in the background
 Make the script executable:
 
 ```
-chmod +x main.sh
+chmod +x blce.sh
 Run the script:
 ```
 ```
-./main.sh
+./blce.sh
 ```
 
 # Commands
