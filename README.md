@@ -25,14 +25,8 @@ Auto-update your system in the background
 Use micro
 
 # Usage
-Make the script executable:
-
 ```
-chmod +x blce.sh
-Run the script:
-```
-```
-./blce.sh
+Go to the releases!
 ```
 
 # Commands
