@@ -22,7 +22,7 @@ Create new files
 
 Auto-update your system in the background
 
-Use micro
+Use a default text editor
 
 # Usage
 ```
@@ -42,7 +42,9 @@ th <file>	Create a new file (e.g., th newfile.txt)
 auto	Automatically update and upgrade system every 2 minutes (press Ctrl+C to stop)
 help	Show the help menu
 imi  Installs micro
-mi  Opens micro mi <file>
+tex  Opens default text editor tex <file>
+cht  Change the default text editor
+
 Notes
 Sudo privileges are required for most system commands.
 
@@ -63,6 +65,7 @@ Welcome to blce (bash line command editor) type help for help
 : th newfile.txt
 : auto
 : imi
-: mi
+: tex
+: cht
 : b
 ```
